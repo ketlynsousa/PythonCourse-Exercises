@@ -1,4 +1,4 @@
-# Python Exercise 061 - Arithmetic Progression V2.0
+# Python Exercise 064 - Arithmetic Progression V2.0
 # Write a program that reads an integer number and shows on the screen
 # The first N numbers of Fibonacci sequence.
 #Ex: 0 - 1 - 1 - 2 - 3 - 5 - 8

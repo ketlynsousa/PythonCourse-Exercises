@@ -1,4 +1,4 @@
-# Python Exercise 061 - Arithmetic Progression v2.0
+# Python Exercise 064 - Arithmetic Progression v2.0
 # Create a program that reads several integers from the keyboard.
 # The program will only stop when the user types the value 999, which is a stopping condition.
 # At the end, show how many numbers were typed and what was the sum between them (disregarding the flag).
