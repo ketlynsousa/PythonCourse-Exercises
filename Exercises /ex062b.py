@@ -1,3 +1,5 @@
+# Python Exercise 062 - Super Arithmetic Progression V3.0
+# Second version of exercise 062 
 start = int(input("Enter the first term of the AP: "))
 reason = int(input("Enter the common difference: "))
 term = start
