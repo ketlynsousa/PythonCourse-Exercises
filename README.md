@@ -29,7 +29,7 @@ I'm gradually uploading each solution here, following my own logic and structure
 
 - Python 3
 - Git & GitHub
-- VS Code / PyCharm (IDE)
+- PyCharm (IDE)
 
 ## 🚀 Goals
 
